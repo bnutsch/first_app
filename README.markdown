@@ -2,7 +2,7 @@
 
 This is the first application for 
 [*Ruby on Rails tutorial*](http://railstutorial.org/)
-by [Michail Hartl](http:michaelhartl.com/).
+by [Michail Hartl](http:michaelhartl.com/).Modified by bn.
 
 == Welcome to Rails
 
